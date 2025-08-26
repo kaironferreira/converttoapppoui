@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/kaironferreira/converttoapppoui",
-  "icon": "assets/images/logo-app.png",
+  "icon": "assets/logo/logo-app.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/kaironferreira/converttoapppoui.git"
