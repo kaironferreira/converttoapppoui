@@ -9,10 +9,11 @@
     "email": "gelsonkairon.10@gmail.com"
   },
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/kaironferreira/converttoapppoui",
+  "icon": "assets/images/logo-app.png",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/kaironferreira/converttoapppoui.git"
   },
   "keywords": [
     "protheus",
